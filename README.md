@@ -29,4 +29,4 @@ Además, el proyecto fomenta el uso de **Git y GitHub** como herramientas esenci
 
 ---
 
-> ✨ *“Aprender maquetación no solo es diseñar una web, sino estructurar ideas de forma visual y funcional.”*
+> *“Aprender maquetación no solo es diseñar una web, sino estructurar ideas de forma visual y funcional.”*
